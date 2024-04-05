@@ -15,7 +15,7 @@ Roschneidy's Games is a UV built proxy and game site **(v2.0 Release)**
 ## Local Hosting
 
 ```bash
-git clone [[https://github.com/SPS-Services/Snorlaxs-Cave-v2.git](https://github.com/helpernov1a/Roschneidy-Games)](https://github.com/helpernov1a/Roschneidy-Games)
+git clone https://github.com/helpernov1a/Roschneidy-Games.git
 ```
 ```bash
 cd Roschneidy Games
